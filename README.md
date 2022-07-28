@@ -25,5 +25,5 @@ Allows the user to save a schedule for a standard 9AM - 5PM work day.
 
 ## Web Page
 ![Work Day Scheduler](./assets/images/screenshot.png)
-[Deployed Application]()
+[Deployed Application](https://hieuwy.github.io/scheduler/)
 
